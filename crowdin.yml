@@ -1,0 +1,3 @@
+files:
+  - source: /apps/star3map/iphone/en.lproj/*
+    translation: /apps/star3map/iphone/%osx_code%/%original_file_name%
